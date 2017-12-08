@@ -44,6 +44,7 @@
   
   .col-xs-6 {
     width: 50%;
+    outline: 2px solid red;
   }
   
   .col-xs-7 {
@@ -68,6 +69,7 @@
   
   .col-xs-12 {
     width: 100%;
+    outline: 2px solid blue;
   }
   
   @media (min-width: 768px) {
@@ -93,6 +95,7 @@
     
     .col-sm-6 {
       width: 50%;
+      outline: 2px solid green;
     }
     
     .col-sm-7 {
