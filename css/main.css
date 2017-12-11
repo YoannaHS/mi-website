@@ -1,5 +1,89 @@
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
     font-family: 'Spectral SC', serif;
+}
+
+body {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #444;
+}
+
+header {
+    background: #fff;
+}
+
+header h2 {
+    padding: 20px 20px 20px 70px;
+}
+.home a {
+    text-decoration: none;
+    color: #000000;
+    filter: drop-shadow(1px 1px 1px #999);
+}
+
+.home i {
+    margin-left: 8px;
+}
+
+.main-head {
+    background-color: #2d2d2d;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-size: 30px;
+}
+
+.row-container {
+    display: flex;
+    line-height: 22.4px;
+    width: 100%;
+}
+
+.row-container .statistics {
+    padding: 2rem 4rem;
+    margin-left: 8rem;
+    align-self: center;
+}
+
+.statistics h3 {
+    padding: 10px 0;
+}
+
+button {
+    background-color: #ef2d22;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    padding: 10px 25px;
+    margin-top: 15px;
+    filter: drop-shadow(2px 2px 5px #999);
+}
+
+.statistics button a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+}
+
+.row-container .image-statistics {
+    padding: 4rem 5rem;
+    display: inline-block;
+    margin-right: 10rem;
+}
+
+.seccion-img {
+    background-color: #f8f8f8;
+}
+
+.seccion-cases {
+    outline: 1px solid red;
+    margin: 5rem 7rem;
+    display: flex;
+    background-color: #fff;
 }
