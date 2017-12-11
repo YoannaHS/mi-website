@@ -1,22 +1,16 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: 'Spectral SC', serif;
-}
-
 body {
     font-size: 16px;
     font-weight: 400;
+    font-family: 'Spectral SC', serif;
     line-height: 1.4;
     color: #444;
 }
 
-header {
+.header-learn {
     background: #fff;
 }
 
-header h2 {
+.header-learn h2 {
     padding: 20px 20px 20px 70px;
 }
 .home a {
@@ -79,29 +73,31 @@ button {
 
 .seccion-img {
     background-color: #f8f8f8;
+    display: flex;
 }
 
 .seccion-cases {
-    margin: 5rem 7rem;
-    display: flex;
+    margin: 2rem 2rem;
     background-color: #fff;
 }
 
 .container-img img {
-    width: 40rem;
-    padding: 15px 15px 0;
+    width: 20rem;
+    height: 13rem;
+    padding: 10px;
 }
 
 .seccion-cases p {
-    font-size: 1.4rem;
+    font-size: 1rem;
     padding: 50px;
+    text-align: justify;
     filter: drop-shadow(1px 1px 1px #999);
 }
 
 footer {
     background-color: #000000;
     text-align: center;
-    padding: 3rem;
+    padding: 2rem;
 }
 
 ul li {
@@ -112,5 +108,5 @@ ul li {
 
 footer span {
     color: #fff;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
