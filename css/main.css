@@ -82,8 +82,35 @@ button {
 }
 
 .seccion-cases {
-    outline: 1px solid red;
     margin: 5rem 7rem;
     display: flex;
     background-color: #fff;
+}
+
+.container-img img {
+    width: 40rem;
+    padding: 15px 15px 0;
+}
+
+.seccion-cases p {
+    font-size: 1.4rem;
+    padding: 50px;
+    filter: drop-shadow(1px 1px 1px #999);
+}
+
+footer {
+    background-color: #000000;
+    text-align: center;
+    padding: 3rem;
+}
+
+ul li {
+    display: inline;
+    list-style: none;
+    padding: 15px;
+}
+
+footer span {
+    color: #fff;
+    font-size: 1.5rem;
 }
