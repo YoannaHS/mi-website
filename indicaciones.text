@@ -1,0 +1,10 @@
+System Grids
+
+* Jerarquía
+	Container / Row / Colum
+
+* Al container hay que darle 90% de width para que no esté tan pegado al viewport.
+* A las columnas le damos float
+* El gutter es la separación entre columnas --> margin-right: 2%
+* A las imágenes siempre agregarle un width100% - heigth auto
+* Cuando el tamaño del viewport tenga el px especificado aplicar display: none y agregamos menú hamburguesa
