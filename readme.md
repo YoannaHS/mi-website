@@ -11,3 +11,9 @@ Elegimos una problemática social bastante fuerte a nivel mundial, **la violenci
 * [Lear In](http://leanin.org/about/es 'Lear In')
 
 * [HeforShe](http://www.heforshe.org/es 'HeforShe')
+
+## Producto Final
+
+![](assets/img/responsive.png)
+
+![](assets/img/movil.png)

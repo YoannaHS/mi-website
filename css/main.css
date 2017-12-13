@@ -87,9 +87,8 @@ button {
 }
 
 .container-img img {
-    width: 20rem;
-    height: 13rem;
-    padding: 10px;
+    width: 100%;
+    height: auto;
 }
 
 .seccion-cases p {
