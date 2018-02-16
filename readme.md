@@ -1,7 +1,7 @@
 # Reto: _Mi Web Site_
 En este reto, vamos a realizar una página a nuestro gusto.
 
-El diseño lo puedes realizar como mejor te parezca, pero debes mantener la estructura de la página y debes realizarlo con un grid (cualquiera pero que no sea un framework como Bootstrap o Materialize).
+![image](https://user-images.githubusercontent.com/32310691/36332880-0fcde9fe-1342-11e8-9f08-39ed948d7dd8.png)
 
 ## Tema
 
