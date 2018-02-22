@@ -7,7 +7,7 @@
 body {
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Spectral SC', serif;
+    font-family: 'Gilda Display', serif;
     line-height: 1.4;
     color: #444;
 }
@@ -19,6 +19,7 @@ body {
 .header-learn h2 {
     padding: 20px 20px 20px 70px;
 }
+
 .home a {
     text-decoration: none;
     color: #000000;
@@ -37,6 +38,7 @@ body {
     padding-top: 80px;
     padding-bottom: 80px;
     font-size: 30px;
+    font-family: 'Spectral', serif;
 }
 
 .row-container {
@@ -46,7 +48,6 @@ body {
 
 .row-container .statistics {
     padding: 2rem 4rem;
-    margin-left: 8rem;
     align-self: center;
 }
 
@@ -76,6 +77,12 @@ button {
     margin-right: 10rem;
 }
 
+.image-statistics img {
+  width: 10em;
+  height: 45vh;
+  margin-left: 1em;
+}
+
 .seccion-img {
     background-color: #f8f8f8;
     /* display: flex; */
@@ -84,16 +91,19 @@ button {
 .seccion-cases {
     margin: 2rem 2rem;
     background-color: #fff;
+    text-align: center;
 }
 
 .container-img img {
-    width: 100%;
-    height: auto;
+    width: 15em;
+    height: 22vh;
+    box-shadow: 2px 2px 5px #999;
 }
 
 .seccion-cases p {
     font-size: 1rem;
     padding: 50px;
+    height: 13em;
     text-align: justify;
     filter: drop-shadow(1px 1px 1px #999);
 }
@@ -108,6 +118,10 @@ ul li {
     display: inline;
     list-style: none;
     padding: 15px;
+}
+
+ul li i {
+  margin-bottom: 0.5em;
 }
 
 footer span {
@@ -180,6 +194,11 @@ footer span {
   .col-xs-12 {
     width: 100%;
   }
+
+  .row-container .statistics {
+    text-align: left;
+    align-self: center;
+}
   
   @media (min-width: 768px) {
     .col-sm-1 {
