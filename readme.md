@@ -2,7 +2,7 @@
 
 Equality Equity es una web que trata de concientizar sobre diversos temas que aquejan y destruyen a la sociedad. La falta de educación, el matrimonio infantil, y la mutilación genital son algunos de los temas que plasmaremos.
 
-![image](https://user-images.githubusercontent.com/32310691/36520058-e015d5d6-175c-11e8-9214-f2fb7fef6114.png)
+![image](https://user-images.githubusercontent.com/32310691/36520118-2cace556-175d-11e8-9c9e-03d3ce6df905.png)
 
 ## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
 
